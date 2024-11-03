@@ -376,4 +376,3 @@ void free_variable(int index) {
     variables[index].name = NULL;
     variables[index].value = NULL;
 }
-
