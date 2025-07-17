@@ -84,4 +84,4 @@ Each version is implemented in a separate file (`shell1.c` to `shell6.c`). Compi
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it with proper credit.
 
-© 2025 Amna Yaseen. All rights reserved.
+© 2024 Amna Yaseen. All rights reserved.
